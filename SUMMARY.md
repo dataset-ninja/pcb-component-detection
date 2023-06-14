@@ -1,4 +1,4 @@
-**PCB Component Detection** is a dataset for object detection tasks. It is used in the industrial industry.
+**PCB Component Detection** is a dataset for object detection tasks. It is applicable or relevant across various domains.
 
 The dataset consists of 1410 images with 11119 labeled objects belonging to 9 different classes including *Cap1*, *Transformer*, *MOSFET*, and other: *Mov*, *Cap2*, *Cap3*, *Resistor*, *Cap4*, and *Resestor*.
 

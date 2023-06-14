@@ -12,7 +12,7 @@ PROJECT_NAME_FULL: str = "PCB Component Detection"
 # * After uploading to instance ##
 ##################################
 LICENSE: License = License.CC0_1_0()
-INDUSTRIES: List[Industry] = [Industry.Industrial()]
+INDUSTRIES: List[Industry] = [Industry.GeneralDomain()]
 CV_TASKS: List[CVTask] = [CVTask.ObjectDetection()]
 ANNOTATION_TYPES: List[AnnotationType] = [AnnotationType.ObjectDetection()]
 
