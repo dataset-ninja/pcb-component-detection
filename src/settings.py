@@ -72,6 +72,8 @@ ORGANIZATION_URL: Optional[Union[str, List[str]]] = None
 SLYTAGSPLIT: Optional[Dict[str, List[str]]] = None
 TAGS: List[str] = None
 
+SECTION_EXPLORE_CUSTOM_DATASETS: Optional[List[str]] = ["train"]
+
 ##################################
 ###### ? Checks. Do not edit #####
 ##################################
