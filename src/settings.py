@@ -118,4 +118,6 @@ def get_settings():
     settings["slytagsplit"] = SLYTAGSPLIT
     settings["tags"] = TAGS
 
+    settings["explore_datasets"] = SECTION_EXPLORE_CUSTOM_DATASETS
+
     return settings
