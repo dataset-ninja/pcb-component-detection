@@ -1,4 +1,4 @@
-**Printed Board Circuit (PCB) Component Detection** is a dataset for object detection tasks. Possible applications of the dataset could be in the industrial domain. 
+**Printed Board Circuit (PCB) Component Detection** is a dataset for an object detection task. Possible applications of the dataset could be in the industrial domain. 
 
 The dataset consists of 1410 images with 11119 labeled objects belonging to 9 different classes including *Cap1*, *Transformer*, *MOSFET*, and other: *Mov*, *Cap2*, *Cap3*, *Resistor*, *Cap4*, and *Resestor*.
 
