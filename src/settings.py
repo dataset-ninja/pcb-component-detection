@@ -15,6 +15,7 @@ from dataset_tools.templates import (
 ##################################
 PROJECT_NAME: str = "PCB Component Detection"
 PROJECT_NAME_FULL: str = "Printed Board Circuit (PCB) Component Detection"
+HIDE_DATASET = False  # set False when 100% sure about repo quality
 
 ##################################
 # * After uploading to instance ##
@@ -92,6 +93,7 @@ def get_settings():
 
     settings = {
         "project_name": PROJECT_NAME,
+        "hide_dataset": HIDE_DATASET,
         "license": LICENSE,
         "applications": APPLICATIONS,
         "category": CATEGORY,
