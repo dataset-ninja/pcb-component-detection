@@ -21,8 +21,8 @@ HIDE_DATASET = False  # set False when 100% sure about repo quality
 # * After uploading to instance ##
 ##################################
 LICENSE: License = License.CC0_1_0()
-APPLICATIONS: List[Union[Industry, Domain, Research]] = [Domain.Industrial(is_used=False)]
-CATEGORY: Category = Category.Manufacturing()
+APPLICATIONS: List[Union[Industry, Domain, Research]] = [Industry.WasteRecycling(is_used=False)]
+CATEGORY: Category = Category.Environmental()
 
 CV_TASKS: List[CVTask] = [CVTask.ObjectDetection()]
 ANNOTATION_TYPES: List[AnnotationType] = [AnnotationType.ObjectDetection()]
