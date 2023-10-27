@@ -50,15 +50,15 @@ DOWNLOAD_ORIGINAL_URL: Optional[
 # Optional link for downloading original dataset (e.g. "https://some.com/dataset/download")
 
 CLASS2COLOR: Optional[Dict[str, List[str]]] = {
-    "Cap1": [230, 25, 75],
-    "Cap2": [255, 225, 25],
-    "Cap3": [0, 130, 200],
-    "Cap4": [245, 130, 48],
+    "cap1": [230, 25, 75],
+    "cap2": [255, 225, 25],
+    "cap3": [0, 130, 200],
+    "cap4": [245, 130, 48],
     "MOSFET": [145, 30, 180],
-    "Mov": [70, 240, 240],
-    "Resestor": [240, 50, 230],
-    "Resistor": [210, 245, 60],
-    "Transformer": [250, 190, 212],
+    "mov": [70, 240, 240],
+    "resestor": [240, 50, 230],
+    "resistor": [210, 245, 60],
+    "transformer": [250, 190, 212],
 }
 # If specific colors for classes are needed, fill this dict (e.g. {"class1": [255, 0, 0], "class2": [0, 255, 0]})
 
