@@ -1,6 +1,6 @@
 Dataset **PCB Component Detection** can be downloaded in [Supervisely format](https://developer.supervisely.com/api-references/supervisely-annotation-json-format):
 
- [Download](https://assets.supervisely.com/remote/eyJsaW5rIjogImZzOi8vYXNzZXRzLzk4NV9QQ0IgQ29tcG9uZW50IERldGVjdGlvbi9wY2ItY29tcG9uZW50LWRldGVjdGlvbi1EYXRhc2V0TmluamEudGFyIiwgInNpZyI6ICI2ZE9uUnQyWUJWNzhUcTlKVDJ0UWJNOTg3ZGh2dCtZS2IyVTQxZ3ROZXhFPSJ9)
+ [Download](https://assets.supervisely.com/remote/eyJsaW5rIjogInMzOi8vc3VwZXJ2aXNlbHktZGF0YXNldHMvOTg1X1BDQiBDb21wb25lbnQgRGV0ZWN0aW9uL3BjYi1jb21wb25lbnQtZGV0ZWN0aW9uLURhdGFzZXROaW5qYS50YXIiLCAic2lnIjogIndqVjhGV08wOHVNRUxPam5hc1hsNXc3MlMrTjVxNkU5SGQrdlRJTWt1SmM9In0=?response-content-disposition=attachment%3B%20filename%3D%22pcb-component-detection-DatasetNinja.tar%22)
 
 As an alternative, it can be downloaded with *dataset-tools* package:
 ``` bash
